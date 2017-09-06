@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Nucleo Outline';
+  src: url('./nucleo-outline.eot');
+  src: url('./nucleo-outline.eot') format('embedded-opentype'), url('./nucleo-outline.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
