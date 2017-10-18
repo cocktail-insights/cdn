@@ -1,6 +1,8 @@
 html, body {
   min-width: 290px;
-  -ms-overflow-style: scrollbar
+  -ms-overflow-style: scrollbar;
+  padding: 0;
+  margin: 0;jk
 }
 body {
   background-color: #fff;
