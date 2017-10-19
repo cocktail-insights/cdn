@@ -6195,3 +6195,10 @@ a.list-group-item-dark:hover, a.list-group-item-dark:focus {
   left: auto;
   right: 0;
 }
+
+
+#content-container {
+  padding-left: 220px;
+  padding-top: 0px;
+}
+
